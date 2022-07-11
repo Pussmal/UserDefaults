@@ -8,5 +8,5 @@
 import Foundation
 
 enum KeyDefaults: String {
-    case city, stret, house, build, flat
+    case city, street, house, build, flat, adresses
 }
